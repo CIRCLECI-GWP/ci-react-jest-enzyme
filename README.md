@@ -1,8 +1,6 @@
-# Redux Async Example
+# Continuous integration for React applications using Jest and Enzyme
 
-This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.
-
-Projects built with Create-React-App include support for ES6 syntax, as well as several unofficial / not-yet-final forms of Javascript syntax such as Class Properties and JSX.  See the list of [language features and polyfills supported by Create-React-App](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#supported-language-features-and-polyfills) for more information.
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/ci-react-jest-enzyme/tree/main.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/ci-react-jest-enzyme/tree/main)
 
 ## Available Scripts
 
@@ -34,3 +32,22 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## Details
+
+This repo is built following a tutorial published on CircleCI blog under the CircleCI Guest Writer Program.
+
+- Blog post: [Continuous integration for React applications using Jest and Enzyme][blog]
+- Author's GitHub profile: [Keviun Ndung'u][author]
+
+### About CircleCI Guest Writer Program
+
+Join a team of freelance writers and write about your favorite technology topics for the CircleCI blog. Read more about the program [here][gwp-program].
+
+Reviewers: [Ron Powell][ron], [Stanley Ndagi][stan]. [Dominic Motuka][daumie]
+
+[blog]: https://circleci.com/blog/continuously-testing-react-applications-with-jest-and-enzyme/
+[author]: https://github.com/kevgathuku
+[gwp-program]: https://circle.ci/3ahQxfu
+[ron]: https://github.com/ronpowelljr
+[stan]: https://github.com/NdagiStanley
+[daumie]: https://github.com/daumie%
